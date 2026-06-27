@@ -1,0 +1,4 @@
+df = pd.read_csv("dataset.csv")
+
+df.head()
+df.info()
